@@ -1,4 +1,4 @@
-# Olá, meu nome é Paola :wave: :ok_woman:
+# Olá, meu nome é Paola :wave::ok_woman:
 
 ## Sobre mim:
 
