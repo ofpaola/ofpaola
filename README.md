@@ -1,4 +1,4 @@
-# Olá! Meu nome é Paola. Seja bem vindo(a)!:wave::ok_woman:
+## Olá! Meu nome é Paola. Seja bem vindo(a)!:wave::ok_woman:
 
 ### Um pouco sobre mim:
 Quando eu era mais nova mexia muito com códigos no Blogger e Tumblr, gostava bastante mas tinha aquilo somente como hobby. A vida acabou me levando para outros caminhos e depois de um tempo, um desses caminhos voltou para esse mundo e decidi me arriscar na área de programação e hoje estou aqui. :smile:
