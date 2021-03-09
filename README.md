@@ -4,5 +4,4 @@
 - :sparkles: Atualmente estou participando do Bootcamp de Desenvolvedor(a) Java Júnior Full Stack da Generation. 
 - :books: Também faço cursos livres para aprimorar meus conhecimentos na área. 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofpaola&layout=compact)](https://github.com/ofpaola/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofpaola&layout=compact&theme=midnight-purple)](https://github.com/ofpaola/github-readme-stats)
