@@ -9,7 +9,6 @@
 - :books: Being a self-taught as well to improve my knowledge.  
 - 🔍 You can also find me on: [Linkedin](https://www.linkedin.com/in/ofpaola) and [Spotify](https://open.spotify.com/user/5phe5wqtxbf3anfqpi0f2aigu).
 - :sparkles: Random facts: I'm vegan. I love food, nature and any form of art with all my heart.🥰
-##
 
 ## 🛠 Languages and Tools:
 <p>
