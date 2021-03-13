@@ -2,8 +2,9 @@
 
 <img align="right" alt="" src="https://github.com/ofpaola/ofpaola/blob/main/ebre3z6i1ut.png" width="496" height="370" />
 
-## As you already saw, my name is Paola and I'm 21 y/o 🙆‍♀️
+### As you already saw, my name is Paola and I'm 21 y/o 🙆‍♀️
 
+## 🌙 About me:
 - 👣 I'm starting my career as a web developer.
 - 👩‍💻 Currently participating at [Generation](https://brazil.generation.org)'s Full Stack Web Developer Bootcamp.
 - :books: Being a self-taught as well to improve my knowledge.  
