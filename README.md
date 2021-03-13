@@ -12,7 +12,7 @@
 
 ## 🛠 Languages and Tools:
 <p>
-<img src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1615663538~hmac=9c238a3242bbe2338450b62a6d111307" alt="java" height="30" style="vertical-align:top; margin:4px">
+<img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="java" height="30" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="SB" height="30" style="vertical-align:top; margin:4px">
 <img src="https://dextak.com.br/images/tecnologia/mysql.png" alt="mysql" height="30" style="vertical-align:top; margin:4px">
 <img src="https://www.postman.com/assets/logos/postman-logo-stacked.svg" alt="postman" height="30" style="vertical-align:top; margin:4px">
