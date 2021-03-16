@@ -13,18 +13,18 @@
 
 ## 🛠 Languages and Tools:
 <p>
-<img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="java" height="30" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="SB" height="30" style="vertical-align:top; margin:4px">
-<img src="https://dextak.com.br/images/tecnologia/mysql.png" alt="mysql" height="30" style="vertical-align:top; margin:4px">
+<img src="https://i.imgur.com/dssnn3q.png" alt="java" height="30" style="vertical-align:top; margin:4px">
+<img src="https://i.imgur.com/LTUQ1Yx.png" alt="SB" height="30" style="vertical-align:top; margin:4px">
+<img src="https://i.imgur.com/DxAUWqN.png" alt="mysql" height="30" style="vertical-align:top; margin:4px">
 <img src="https://www.postman.com/assets/logos/postman-logo-stacked.svg" alt="postman" height="30" style="vertical-align:top; margin:4px">
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" height="30" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" height="30" style="vertical-align:top; margin:4px">
-<img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="css" height="30" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="30" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="BS" height="30" style="vertical-align:top; margin:4px">
-<img src="https://dtec.azurewebsites.net/images/angular.png" alt="angular" height="30" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="mysql" height="30" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
+<img src="https://i.imgur.com/U7l8st3.png" alt="git" height="30" style="vertical-align:top; margin:4px">
+<img src="https://i.imgur.com/XOCU8S0.png" alt="HTML5" height="30" style="vertical-align:top; margin:4px">
+<img src="https://i.imgur.com/oC6oyqi.png" alt="css" height="30" style="vertical-align:top; margin:4px">
+<img src="https://i.imgur.com/IM1G26Q.png" alt="Javascript" height="30" style="vertical-align:top; margin:4px">
+<img src="https://i.imgur.com/VCpg65t.png" alt="BS" height="30" style="vertical-align:top; margin:4px">
+<img src="https://i.imgur.com/WjsIY40.png" alt="angular" height="30" style="vertical-align:top; margin:4px">
+<img src="https://i.imgur.com/OGNL0qU.png" alt="typescript" height="30" style="vertical-align:top; margin:4px">
+<img src="https://i.imgur.com/hzOzKwj.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
 <img src="https://brandslogos.com/wp-content/uploads/thumbs/eclipse-logo-vector.svg" alt="eclipse" height="30" style="vertical-align:top; margin:4px">
 </p>
 
