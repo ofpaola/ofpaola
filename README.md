@@ -16,7 +16,7 @@
 <img src="https://i.imgur.com/dssnn3q.png" alt="java" height="30" style="vertical-align:top; margin:4px">
 <img src="https://i.imgur.com/LTUQ1Yx.png" alt="SB" height="30" style="vertical-align:top; margin:4px">
 <img src="https://i.imgur.com/DxAUWqN.png" alt="mysql" height="30" style="vertical-align:top; margin:4px">
-<img src="https://www.postman.com/assets/logos/postman-logo-stacked.svg" alt="postman" height="30" style="vertical-align:top; margin:4px">
+<img src="https://i.imgur.com/WdbrGwR.png" alt="postman" height="30" style="vertical-align:top; margin:4px">
 <img src="https://i.imgur.com/U7l8st3.png" alt="git" height="30" style="vertical-align:top; margin:4px">
 <img src="https://i.imgur.com/XOCU8S0.png" alt="HTML5" height="30" style="vertical-align:top; margin:4px">
 <img src="https://i.imgur.com/oC6oyqi.png" alt="css" height="30" style="vertical-align:top; margin:4px">
@@ -25,7 +25,7 @@
 <img src="https://i.imgur.com/WjsIY40.png" alt="angular" height="30" style="vertical-align:top; margin:4px">
 <img src="https://i.imgur.com/OGNL0qU.png" alt="typescript" height="30" style="vertical-align:top; margin:4px">
 <img src="https://i.imgur.com/hzOzKwj.png" alt="VS Code" height="30" style="vertical-align:top; margin:4px">
-<img src="https://brandslogos.com/wp-content/uploads/thumbs/eclipse-logo-vector.svg" alt="eclipse" height="30" style="vertical-align:top; margin:4px">
+<img src="https://i.imgur.com/CDyL4V9.png" alt="eclipse" height="30" style="vertical-align:top; margin:4px">
 </p>
 
 ## 📊 GitHub Stats:
