@@ -1,6 +1,6 @@
 # Hi, there!:alien: Welcome to my GitHub profile.:octocat:
 
-<img align="right" alt="" src="https://github.com/ofpaola/ofpaola/blob/main/ebre3z6i1ut.png" width="496" height="370" />
+<img align="right" alt="" src="https://github.com/ofpaola/ofpaola/blob/main/ebre3z6i1ut.png" width="396" height="270" />
 
 ### As you already saw, my name is Paola and I'm 21 y/o 🙆‍♀️
 
