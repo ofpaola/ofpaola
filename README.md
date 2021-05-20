@@ -1,15 +1,14 @@
-# Hi, there!:alien: Welcome to my GitHub profile.:octocat:
+## Hi, there!:alien: Welcome to my GitHub profile.:octocat:
 
 ### As you already saw, my name is Paola and I'm 21 y/o 🙆‍♀️
-
-## 🌙 About me:
+### 🌙 About me:
 - 👣 I'm starting my career as a developer.
 - 👩‍💻 Finished the Java Full Stack Developer Bootcamp at [Generation](https://brazil.generation.org).
 - :books: Being a self-taught as well to improve my knowledges.  
 - 🔍 You can also find me on: [Linkedin](https://www.linkedin.com/in/ofpaola) and [Spotify](https://open.spotify.com/user/5phe5wqtxbf3anfqpi0f2aigu).
 - :sparkles: Random facts: I'm vegan. I love food, nature and any form of art with all my heart.🥰
 
-## 🛠 Languages and Tools:
+### 🛠 Languages and Tools:
 <p>
 <img src="https://i.imgur.com/dssnn3q.png" alt="java" height="30" style="vertical-align:top; margin:4px">
 <img src="https://i.imgur.com/LTUQ1Yx.png" alt="SpringBoot" height="30" style="vertical-align:top; margin:4px">
@@ -26,6 +25,6 @@
 <img src="https://i.imgur.com/CDyL4V9.png" alt="eclipse" height="30" style="vertical-align:top; margin:4px">
 </p>
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofpaola&layout=compact&theme=tokyonight)](https://github.com/ofpaola/github-readme-stats)
