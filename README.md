@@ -5,7 +5,7 @@
 - 👣 I'm starting my career as a developer.
 - 👩‍💻 Finished the Java Full Stack Developer Bootcamp at [Generation](https://brazil.generation.org).
 - :books: Being a self-taught as well to improve my knowledges.  
-- 🔍 You can also find me on: [Linkedin](https://www.linkedin.com/in/ofpaola) and [Spotify](https://open.spotify.com/user/5phe5wqtxbf3anfqpi0f2aigu).
+- 🔍 You can also find me on: [Linkedin](https://www.linkedin.com/in/ofpaola).
 
 ### 🛠 Languages and Tools:
 <p>
