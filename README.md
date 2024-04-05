@@ -1,4 +1,4 @@
-## Hi, there!:alien: Welcome to my GitHub profile.:octocat:
+## Hi, there! Welcome to my GitHub profile.
 
 ### As you already saw, my name is Paola and I'm 24 y/o 🙆‍♀️
 ### 🌙 About me:
