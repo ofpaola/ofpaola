@@ -1,10 +1,9 @@
 ## Hi, there!:alien: Welcome to my GitHub profile.:octocat:
 
-### As you already saw, my name is Paola and I'm 21 y/o 🙆‍♀️
+### As you already saw, my name is Paola and I'm 24 y/o 🙆‍♀️
 ### 🌙 About me:
-- 👣 I'm starting my career as a developer.
-- 👩‍💻 Java Software Developer at [Everis](https://www.everis.com/brazil/pt-br/home-br)
-- 👩‍💻 Finished the Java Full Stack Developer Bootcamp at [Generation](https://brazil.generation.org).
+- 👩‍💻 Java Software Developer at [NTT Data](https://br.nttdata.com/)
+- 👩‍💻 Certified - Java Full Stack Developer Bootcamp at [Generation](https://brazil.generation.org).
 - :books: Being a self-taught as well to improve my knowledges.  
 - 🔍 You can also find me on: [Linkedin](https://www.linkedin.com/in/ofpaola).
 
